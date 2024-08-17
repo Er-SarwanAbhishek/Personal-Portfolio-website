@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/css/main.159e5367.css",
+    "main.js": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/js/main.28cd93f2.js",
+    "static/media/roomBooking.png": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/roomBooking.f04d1672edc94fc0b7af.png",
+    "static/media/frontend.png": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/frontend.20ff67b88c9e4dbd8114.png",
+    "static/media/project.png": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/project.f35e05345db029d934ce.png",
+    "static/media/project-2.jpg": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/project-2.0dfdb478a2db20f08cf8.jpg",
+    "static/media/project-5.jpg": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/project-5.f6885d316197f5d72029.jpg",
+    "static/media/project-6.jpg": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/project-6.f4df07761e8241c83a94.jpg",
+    "static/media/project-4.jpeg": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/project-4.5bc2687cdb426a57c84c.jpeg",
+    "static/media/project-3.jpeg": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/project-3.5ae83458f56a1d1d3163.jpeg",
+    "static/media/abhishek.jpg": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/abhishek.01517ad1e6f469166b95.jpg",
+    "static/media/project-1.jpeg": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/media/project-1.fa7bcd15ca2c6d433163.jpeg",
+    "index.html": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/index.html",
+    "main.159e5367.css.map": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/css/main.159e5367.css.map",
+    "main.28cd93f2.js.map": "/Er-SarwanAbhishek/Personal-Portfolio-website.git/static/js/main.28cd93f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.159e5367.css",
+    "static/js/main.28cd93f2.js"
+  ]
+}
