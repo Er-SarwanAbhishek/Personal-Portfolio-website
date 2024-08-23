@@ -26,9 +26,12 @@ code {
   .grid{
     gap: 10px;
   }
-  .home__data{
-   padding-right: 40px;
+
+  .home__content .home__data{
+   margin-left: 0px;
+
   }
+
 
   .home__title{
     font-size: var(--big-font-size);

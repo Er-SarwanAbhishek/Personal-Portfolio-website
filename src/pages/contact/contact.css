@@ -1,5 +1,5 @@
 .section__title{
-    color: rgb(242, 80, 188);
+    color: var(--first-color);
 }
 
 
@@ -14,7 +14,7 @@
     font-size: var(--h3-font-size);
     font-weight: 600;
     margin-bottom: 1rem;
-    color: green;
+    color: var(--first-color);
 }
 
 .contact__description{
@@ -114,11 +114,15 @@
 }
 
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
     .contact__container{
         display: flex;
         flex-direction: column;
+        margin-left: 70px;
     }
+   
+        
+    
 
     .form__input-group{
         margin-top: 20px;
