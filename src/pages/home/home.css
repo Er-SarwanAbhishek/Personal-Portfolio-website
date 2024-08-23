@@ -113,7 +113,7 @@
 
 
 
-@media screen and (max-width: 668px){
+@media screen and (max-width: 800px){
     .home{
        display: flex;
        flex-direction: column; 
@@ -121,7 +121,7 @@
     .color__block{
     
         height:0px;
-        width: px0;
+        width: 0px;
 
     }
     .home__img{
@@ -143,6 +143,6 @@
         display: flex;
         flex-direction: column;
         width: 224px;
-        margin: 30px;
+        margin: 30px 10px 10px;
     }
 }
