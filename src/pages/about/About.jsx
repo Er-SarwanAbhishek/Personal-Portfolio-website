@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../../assets/abhishek.jpg";
+import aboutImage from "../../assets/aboutImage.png";
 // import Info from '../../components/Info'
 // import Stats from '../../components/Stats'
 import { FaDownload } from "react-icons/fa";
@@ -35,7 +35,7 @@ const About = () => {
       <section class="aboutSection">
         <div class="aboutContents">
           <div class="aboutImage">
-            <img src={Profile} alt="" />
+            <img src={aboutImage} alt="" />
           </div>
 
           <div class="aboutInfo">
@@ -56,10 +56,6 @@ const About = () => {
               <div>
                 <span>D.O.B:</span>
                 <span>25 March 2003</span>
-              </div>
-              <div>
-                <span>Email:</span>
-                <span>abhisheknagina90@gmail.com</span>
               </div>
               <div>
                 <span>Email:</span>
